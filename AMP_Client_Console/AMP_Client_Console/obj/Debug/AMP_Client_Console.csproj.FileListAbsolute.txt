@@ -1,0 +1,15 @@
+C:\Users\Chip\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chip\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\AMP_Client_Console.exe
+C:\Users\Chip\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\AMP_Client_Console.pdb
+C:\Users\Chip\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\AMP_Client_Console.exe
+C:\Users\Chip\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\AMP_Client_Console.pdb
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\obj\Debug\AMP_Client_Console.exe
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\obj\Debug\AMP_Client_Console.pdb
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\bin\Debug\AMP_Client_Console.exe
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\bin\Debug\AMP_Client_Console.pdb
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\bin\Debug\Norm.dll
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\bin\Debug\Amplifier_Helpers.dll
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\AMP_Client_Console\bin\Debug\Amplifier_Helpers.pdb
+C:\Users\Chip\git\AMP_ClientConsole\AMP_Client_Console\AMP_Client_Console\obj\Debug\AMP_Client_Console.exe
+C:\Users\Chip\git\AMP_ClientConsole\AMP_Client_Console\AMP_Client_Console\obj\Debug\AMP_Client_Console.pdb

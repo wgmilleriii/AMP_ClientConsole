@@ -1,0 +1,5 @@
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\Amplifier_Helpers\bin\Release\Amplifier_Helpers.dll
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\Amplifier_Helpers\bin\Release\Amplifier_Helpers.pdb
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\Amplifier_Helpers\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\Amplifier_Helpers\obj\Release\Amplifier_Helpers.dll
+C:\Users\Chip\Documents\Visual Studio 2008\Projects\AMP_Client_Console\Amplifier_Helpers\obj\Release\Amplifier_Helpers.pdb

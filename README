@@ -1,1 +1,10 @@
-hi
+Client records are saved on mongolab at https://mongolab.com/databases/amplifier_client/collections/AMP_Client.  
+You may log in with these credentials:
+  wgmilleriii@gmail.com
+  4mpcl13nt$%^
+
+database name: amplifier_client
+database username: amplifier_client
+password: 4mpcl13nt$%^
+  
+This solution uses the NoRM driver available at https://github.com/atheken/NoRM.
